@@ -14,3 +14,6 @@ You will need:
 Run HandRecognition.py
 Open Dinosaur Game in and... play!
 
+
+## Gameplay
+[Recording](gameplay.mkv)
