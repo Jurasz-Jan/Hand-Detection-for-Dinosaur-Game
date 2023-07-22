@@ -3,14 +3,14 @@ Program works by emulating pressing Space when camera registers you touching you
 The goal of this program is to enable you to play Chrome Dinosaur Game with just touching your index and thumb.
 
 
-# Requirements
+## Requirements
 You will need:
 - Python 3.10, 64-bit
 - OpenCV
 - Mediapipe
 - PyAutoGUI
 
-# Usage
+## Usage
 Run HandRecognition.py
-Open Dinosaur Game and... play!
+Open Dinosaur Game in and... play!
 
