@@ -16,4 +16,5 @@ Open Dinosaur Game in and... play!
 
 
 ## Gameplay
-[Recording]([gameplay.mkv](https://youtube.com/shorts/4zC2pl7Iycg?feature=share)https://youtube.com/shorts/4zC2pl7Iycg?feature=share)
+
+[YouTube Short](https://youtube.com/shorts/4zC2pl7Iycg)
