@@ -1,6 +1,6 @@
 # Hand-Detection-for-Dinosaur-Game
-You can play chrome dinasaur Game with just touching your index and thumb.
 Program works by emulating pressing Space when camera registers you touching your fingers.
+The goal of this program is to enable you to play Chrome Dinosaur Game with just touching your index and thumb.
 
 
 # Requirements
